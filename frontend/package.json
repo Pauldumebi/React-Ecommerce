@@ -3,6 +3,10 @@
   "proxy": "http://127.0.0.1:6000",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.14.8",
+    "node": "14.10.1"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
